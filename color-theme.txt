@@ -1,0 +1,53 @@
+--background: 220 20% 95%;
+/* Very light gray */
+--foreground: 240 15% 15%;
+/* Dark gray */
+--card: 0, 0%, 100%;
+/* Pure white */
+--card-foreground: 240 15% 15%;
+/* Dark gray */
+--popover: 0 0% 100%;
+/* Pure white */
+--popover-foreground: 240 15% 15%;
+/* Dark gray */
+--primary: 253 68% 58%;
+/* Bluish purple */
+--primary-foreground: 0 0% 100%;
+/* Pure white */
+--secondary: 240 25% 28%;
+/* Muted bluish gray */
+--secondary-foreground: 0 0% 100%;
+/* Pure white */
+--muted: 240 10% 90%;
+/* Light gray */
+--muted-foreground: 240 8% 45%;
+/* Medium gray */
+--accent: 253 68% 70%;
+/* Lighter bluish purple */
+--accent-foreground: 0 0% 100%;
+/* Pure white */
+--destructive: 0 100% 70%;
+/* Soft red */
+--destructive-foreground: 0 0% 100%;
+/* Pure white */
+--border: 240 10% 85%;
+/* Light gray */
+--input: 0 0% 100%;
+/* Pure white */
+--ring: 253 68% 58%;
+/* Bluish purple */
+--radius: 8px;
+/* Consistent border radius */
+--chart-1: 253 68% 58%;
+/* Bluish purple */
+--chart-2: 253 68% 70%;
+/* Lighter bluish purple */
+--chart-3: 36 100% 68%;
+/* Soft orange */
+--chart-4: 120 60% 50%;
+/* Green */
+--chart-5: 0 100% 70%;
+/* Soft red */
+/* THE ABOVE LIGHT 1ST */
+
+
